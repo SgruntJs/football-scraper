@@ -1,15 +1,27 @@
-# scraper
+# Vue.js Scraping App with Tailwind CSS and JSON-Server
 
-## Project setup
+Welcome to our Vue.js scraping application! This app allows you to scrape data from websites and save it to a JSON server. We have also implemented Tailwind CSS to give the app a modern and responsive design.
+## Getting Started
+To get started with our scraping app, you will need the following:
+
+Node.js and npm installed on your local system.
+A code editor such as VS Code.
+A basic understanding of Vue.js, Tailwind CSS, and JSON-Server.
+
+### Installation
+
+To install the app and its dependencies, follow these steps:
+
+Clone the repository to your local system.
+Open the project in your code editor.
+Open a terminal window and navigate to the project directory.
+Run 
 ```
 npm install
 ```
+ to install the project dependencies.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
+ Run `npm run serve` to start the development server and view the app in your browser.
 ### Compiles and minifies for production
 ```
 npm run build
