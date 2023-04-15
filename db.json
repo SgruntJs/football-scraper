@@ -8409,18 +8409,6 @@
           "cleanSheet": "31%"
         },
         {
-          "team": "Cremonese ",
-          "partite": 29,
-          "over05": "90%",
-          "over15": 79,
-          "over25": 52,
-          "over35": "38%",
-          "over45": "17%",
-          "over55": "0%",
-          "BTS": "59%",
-          "cleanSheet": "10%"
-        },
-        {
           "team": "Sassuolo ",
           "partite": 29,
           "over05": "93%",
@@ -8431,6 +8419,18 @@
           "over55": "7%",
           "BTS": "52%",
           "cleanSheet": "28%"
+        },
+        {
+          "team": "Cremonese ",
+          "partite": 30,
+          "over05": "90%",
+          "over15": 77,
+          "over25": 50,
+          "over35": "37%",
+          "over45": "17%",
+          "over55": "0%",
+          "BTS": "57%",
+          "cleanSheet": "13%"
         },
         {
           "team": "Monza ",
@@ -8482,15 +8482,15 @@
         },
         {
           "team": "Spezia ",
-          "partite": 29,
+          "partite": 30,
           "over05": "93%",
-          "over15": 76,
-          "over25": 48,
-          "over35": "24%",
+          "over15": 77,
+          "over25": 50,
+          "over35": "23%",
           "over45": "0%",
           "over55": "0%",
-          "BTS": "48%",
-          "cleanSheet": "14%"
+          "BTS": "47%",
+          "cleanSheet": "13%"
         },
         {
           "team": "Sampdoria ",
@@ -8517,6 +8517,18 @@
           "cleanSheet": "14%"
         },
         {
+          "team": "Lazio ",
+          "partite": 30,
+          "over05": "90%",
+          "over15": 73,
+          "over25": 43,
+          "over35": "23%",
+          "over45": "0%",
+          "over55": "0%",
+          "BTS": "33%",
+          "cleanSheet": "60%"
+        },
+        {
           "team": "Fiorentina ",
           "partite": 29,
           "over05": "93%",
@@ -8527,18 +8539,6 @@
           "over55": "3%",
           "BTS": "52%",
           "cleanSheet": "28%"
-        },
-        {
-          "team": "Lazio ",
-          "partite": 29,
-          "over05": "90%",
-          "over15": 72,
-          "over25": 41,
-          "over35": "24%",
-          "over45": "0%",
-          "over55": "0%",
-          "BTS": "34%",
-          "cleanSheet": "59%"
         },
         {
           "team": "AS Roma ",
@@ -8565,18 +8565,6 @@
           "cleanSheet": "24%"
         },
         {
-          "team": "Empoli ",
-          "partite": 29,
-          "over05": "93%",
-          "over15": 66,
-          "over25": 31,
-          "over35": "21%",
-          "over45": "0%",
-          "over55": "0%",
-          "BTS": "45%",
-          "cleanSheet": "31%"
-        },
-        {
           "team": "Lecce ",
           "partite": 29,
           "over05": "97%",
@@ -8589,16 +8577,28 @@
           "cleanSheet": "10%"
         },
         {
+          "team": "Empoli ",
+          "partite": 30,
+          "over05": "93%",
+          "over15": 63,
+          "over25": 30,
+          "over35": "20%",
+          "over45": "0%",
+          "over55": "0%",
+          "BTS": "43%",
+          "cleanSheet": "30%"
+        },
+        {
           "team": "Cremonese ",
           "partite": 8,
           "over05": "100%",
-          "over15": 100,
-          "over25": 75,
+          "over15": 88,
+          "over25": 62,
           "over35": "50%",
           "over45": "25%",
           "over55": "0%",
           "BTS": "75%",
-          "cleanSheet": "0%"
+          "cleanSheet": "12%"
         },
         {
           "team": "Sassuolo ",
@@ -8709,18 +8709,6 @@
           "cleanSheet": "12%"
         },
         {
-          "team": "Spezia ",
-          "partite": 8,
-          "over05": "88%",
-          "over15": 75,
-          "over25": 38,
-          "over35": "25%",
-          "over45": "0%",
-          "over55": "0%",
-          "BTS": "62%",
-          "cleanSheet": "12%"
-        },
-        {
           "team": "AC Milan ",
           "partite": 8,
           "over05": "88%",
@@ -8733,16 +8721,16 @@
           "cleanSheet": "62%"
         },
         {
-          "team": "Empoli ",
+          "team": "Spezia ",
           "partite": 8,
           "over05": "88%",
-          "over15": 62,
+          "over15": 75,
           "over25": 38,
           "over35": "12%",
           "over45": "0%",
           "over55": "0%",
           "BTS": "50%",
-          "cleanSheet": "25%"
+          "cleanSheet": "12%"
         },
         {
           "team": "Salernitana ",
@@ -8817,16 +8805,28 @@
           "cleanSheet": "25%"
         },
         {
+          "team": "Empoli ",
+          "partite": 8,
+          "over05": "88%",
+          "over15": 50,
+          "over25": 25,
+          "over35": "0%",
+          "over45": "0%",
+          "over55": "0%",
+          "BTS": "38%",
+          "cleanSheet": "25%"
+        },
+        {
           "team": "Lazio ",
           "partite": 8,
           "over05": "88%",
           "over15": 50,
-          "over25": 12,
+          "over25": 25,
           "over35": "0%",
           "over45": "0%",
           "over55": "0%",
           "BTS": "12%",
-          "cleanSheet": "75%"
+          "cleanSheet": "88%"
         },
         {
           "team": "Napoli ",
@@ -8937,6 +8937,18 @@
           "cleanSheet": "47%"
         },
         {
+          "team": "Spezia ",
+          "partite": 16,
+          "over05": "88%",
+          "over15": 81,
+          "over25": 56,
+          "over35": "25%",
+          "over45": "0%",
+          "over55": "0%",
+          "BTS": "56%",
+          "cleanSheet": "19%"
+        },
+        {
           "team": "Monza ",
           "partite": 15,
           "over05": "100%",
@@ -8949,18 +8961,6 @@
           "cleanSheet": "27%"
         },
         {
-          "team": "Spezia ",
-          "partite": 15,
-          "over05": "87%",
-          "over15": 80,
-          "over25": 53,
-          "over35": "27%",
-          "over45": "0%",
-          "over55": "0%",
-          "BTS": "60%",
-          "cleanSheet": "20%"
-        },
-        {
           "team": "Sassuolo ",
           "partite": 14,
           "over05": "93%",
@@ -8971,18 +8971,6 @@
           "over55": "0%",
           "BTS": "50%",
           "cleanSheet": "36%"
-        },
-        {
-          "team": "Cremonese ",
-          "partite": 14,
-          "over05": "79%",
-          "over15": 64,
-          "over25": 50,
-          "over35": "29%",
-          "over45": "14%",
-          "over55": "0%",
-          "BTS": "43%",
-          "cleanSheet": "21%"
         },
         {
           "team": "Lecce ",
@@ -9007,6 +8995,18 @@
           "over55": "7%",
           "BTS": "27%",
           "cleanSheet": "53%"
+        },
+        {
+          "team": "Cremonese ",
+          "partite": 15,
+          "over05": "80%",
+          "over15": 60,
+          "over25": 47,
+          "over35": "27%",
+          "over45": "13%",
+          "over55": "0%",
+          "BTS": "40%",
+          "cleanSheet": "27%"
         },
         {
           "team": "AS Roma ",
@@ -9238,27 +9238,27 @@
         },
         {
           "team": "Empoli ",
-          "partite": 15,
-          "over05": "93%",
-          "over15": 73,
-          "over25": 33,
-          "over35": "20%",
+          "partite": 16,
+          "over05": "94%",
+          "over15": 69,
+          "over25": 31,
+          "over35": "19%",
           "over45": "0%",
           "over55": "0%",
-          "BTS": "53%",
-          "cleanSheet": "20%"
+          "BTS": "50%",
+          "cleanSheet": "19%"
         },
         {
           "team": "Lazio ",
-          "partite": 14,
-          "over05": "86%",
-          "over15": 71,
-          "over25": 29,
-          "over35": "14%",
+          "partite": 15,
+          "over05": "87%",
+          "over15": 73,
+          "over25": 33,
+          "over35": "13%",
           "over45": "0%",
           "over55": "0%",
-          "BTS": "21%",
-          "cleanSheet": "71%"
+          "BTS": "20%",
+          "cleanSheet": "73%"
         },
         {
           "team": "Hellas Verona ",
@@ -9418,15 +9418,15 @@
         },
         {
           "team": "Spezia ",
-          "partite": 29,
-          "over05": "76%",
-          "over15": 38,
+          "partite": 30,
+          "over05": "77%",
+          "over15": 37,
           "over25": 7,
           "over35": "0%",
           "over45": "0%",
           "over55": "0%",
-          "BTS": "28%",
-          "cleanSheet": "38%"
+          "BTS": "27%",
+          "cleanSheet": "37%"
         },
         {
           "team": "Hellas Verona ",
@@ -9439,18 +9439,6 @@
           "over55": "0%",
           "BTS": "24%",
           "cleanSheet": "45%"
-        },
-        {
-          "team": "Cremonese ",
-          "partite": 29,
-          "over05": "62%",
-          "over15": 38,
-          "over25": 14,
-          "over35": "0%",
-          "over45": "0%",
-          "over55": "0%",
-          "BTS": "21%",
-          "cleanSheet": "41%"
         },
         {
           "team": "Fiorentina ",
@@ -9475,6 +9463,18 @@
           "over55": "0%",
           "BTS": "17%",
           "cleanSheet": "34%"
+        },
+        {
+          "team": "Cremonese ",
+          "partite": 30,
+          "over05": "63%",
+          "over15": 37,
+          "over25": 13,
+          "over35": "0%",
+          "over45": "0%",
+          "over55": "0%",
+          "BTS": "20%",
+          "cleanSheet": "43%"
         },
         {
           "team": "AS Roma ",
@@ -9526,9 +9526,9 @@
         },
         {
           "team": "Lazio ",
-          "partite": 29,
-          "over05": "69%",
-          "over15": 21,
+          "partite": 30,
+          "over05": "70%",
+          "over15": 20,
           "over25": 3,
           "over35": "0%",
           "over45": "0%",
@@ -9538,15 +9538,15 @@
         },
         {
           "team": "Empoli ",
-          "partite": 29,
-          "over05": "59%",
-          "over15": 21,
+          "partite": 30,
+          "over05": "60%",
+          "over15": 20,
           "over25": 0,
           "over35": "0%",
           "over45": "0%",
           "over55": "0%",
           "BTS": "10%",
-          "cleanSheet": "62%"
+          "cleanSheet": "60%"
         },
         {
           "team": "Napoli ",
@@ -9646,15 +9646,15 @@
         },
         {
           "team": "Spezia ",
-          "partite": 15,
-          "over05": "73%",
-          "over15": 47,
-          "over25": 13,
+          "partite": 16,
+          "over05": "75%",
+          "over15": 44,
+          "over25": 12,
           "over35": "0%",
           "over45": "0%",
           "over55": "0%",
-          "BTS": "40%",
-          "cleanSheet": "40%"
+          "BTS": "38%",
+          "cleanSheet": "38%"
         },
         {
           "team": "Salernitana ",
@@ -9729,6 +9729,18 @@
           "cleanSheet": "73%"
         },
         {
+          "team": "Cremonese ",
+          "partite": 15,
+          "over05": "60%",
+          "over15": 20,
+          "over25": 7,
+          "over35": "0%",
+          "over45": "0%",
+          "over55": "0%",
+          "BTS": "7%",
+          "cleanSheet": "53%"
+        },
+        {
           "team": "Sampdoria ",
           "partite": 15,
           "over05": "73%",
@@ -9739,18 +9751,6 @@
           "over55": "0%",
           "BTS": "7%",
           "cleanSheet": "33%"
-        },
-        {
-          "team": "Cremonese ",
-          "partite": 14,
-          "over05": "57%",
-          "over15": 21,
-          "over25": 7,
-          "over35": "0%",
-          "over45": "0%",
-          "over55": "0%",
-          "BTS": "7%",
-          "cleanSheet": "50%"
         },
         {
           "team": "Bologna ",
@@ -9981,6 +9981,18 @@
           "cleanSheet": "47%"
         },
         {
+          "team": "Lazio ",
+          "partite": 15,
+          "over05": "73%",
+          "over15": 13,
+          "over25": 7,
+          "over35": "0%",
+          "over45": "0%",
+          "over55": "0%",
+          "BTS": "0%",
+          "cleanSheet": "93%"
+        },
+        {
           "team": "Fiorentina ",
           "partite": 14,
           "over05": "71%",
@@ -9993,28 +10005,16 @@
           "cleanSheet": "50%"
         },
         {
-          "team": "Lazio ",
-          "partite": 14,
-          "over05": "71%",
-          "over15": 14,
-          "over25": 7,
-          "over35": "0%",
-          "over45": "0%",
-          "over55": "0%",
-          "BTS": "0%",
-          "cleanSheet": "93%"
-        },
-        {
           "team": "Empoli ",
-          "partite": 15,
-          "over05": "67%",
-          "over15": 20,
+          "partite": 16,
+          "over05": "69%",
+          "over15": 19,
           "over25": 0,
           "over35": "0%",
           "over45": "0%",
           "over55": "0%",
-          "BTS": "13%",
-          "cleanSheet": "53%"
+          "BTS": "12%",
+          "cleanSheet": "50%"
         },
         {
           "team": "Juventus ",
@@ -10080,7 +10080,7 @@
           "team": " Cremonese ",
           "partite": 17,
           "over05": "",
-          "over15": 59,
+          "over15": 57,
           "over25": null,
           "over35": "",
           "over45": "",
@@ -10212,7 +10212,7 @@
           "team": " Spezia ",
           "partite": 14,
           "over05": "",
-          "over15": 48,
+          "over15": 47,
           "over25": null,
           "over35": "",
           "over45": "",
@@ -10224,7 +10224,7 @@
           "team": " Empoli ",
           "partite": 13,
           "over05": "",
-          "over15": 45,
+          "over15": 43,
           "over25": null,
           "over35": "",
           "over45": "",
@@ -10272,7 +10272,7 @@
           "team": " Lazio ",
           "partite": 10,
           "over05": "",
-          "over15": 34,
+          "over15": 33,
           "over25": null,
           "over35": "",
           "over45": "",
@@ -10380,7 +10380,7 @@
           "team": " Spezia ",
           "partite": 9,
           "over05": "",
-          "over15": 60,
+          "over15": 56,
           "over25": null,
           "over35": "",
           "over45": "",
@@ -10476,7 +10476,7 @@
           "team": " Cremonese ",
           "partite": 6,
           "over05": "",
-          "over15": 43,
+          "over15": 40,
           "over25": null,
           "over35": "",
           "over45": "",
@@ -10656,7 +10656,7 @@
           "team": " Empoli ",
           "partite": 8,
           "over05": "",
-          "over15": 53,
+          "over15": 50,
           "over25": null,
           "over35": "",
           "over45": "",
@@ -10812,7 +10812,7 @@
           "team": " Lazio ",
           "partite": 3,
           "over05": "",
-          "over15": 21,
+          "over15": 20,
           "over25": null,
           "over35": "",
           "over45": "",
@@ -10845,10 +10845,10 @@
           "cleanSheet": ""
         },
         {
-          "team": " Juventus ",
-          "partite": 17,
+          "team": " Lazio ",
+          "partite": 18,
           "over05": "",
-          "over15": 59,
+          "over15": 60,
           "over25": null,
           "over35": "",
           "over45": "",
@@ -10857,7 +10857,7 @@
           "cleanSheet": ""
         },
         {
-          "team": " Lazio ",
+          "team": " Juventus ",
           "partite": 17,
           "over05": "",
           "over15": 59,
@@ -10920,7 +10920,7 @@
           "team": " Empoli ",
           "partite": 9,
           "over05": "",
-          "over15": 31,
+          "over15": 30,
           "over25": null,
           "over35": "",
           "over45": "",
@@ -11025,6 +11025,18 @@
           "cleanSheet": ""
         },
         {
+          "team": " Cremonese ",
+          "partite": 4,
+          "over05": "",
+          "over15": 13,
+          "over25": null,
+          "over35": "",
+          "over45": "",
+          "over55": "",
+          "BTS": "",
+          "cleanSheet": ""
+        },
+        {
           "team": " Hellas Verona ",
           "partite": 4,
           "over05": "",
@@ -11052,19 +11064,7 @@
           "team": " Spezia ",
           "partite": 4,
           "over05": "",
-          "over15": 14,
-          "over25": null,
-          "over35": "",
-          "over45": "",
-          "over55": "",
-          "BTS": "",
-          "cleanSheet": ""
-        },
-        {
-          "team": " Cremonese ",
-          "partite": 3,
-          "over05": "",
-          "over15": 10,
+          "over15": 13,
           "over25": null,
           "over35": "",
           "over45": "",
@@ -11229,6 +11229,18 @@
           "cleanSheet": ""
         },
         {
+          "team": " Cremonese ",
+          "partite": 4,
+          "over05": "",
+          "over15": 27,
+          "over25": null,
+          "over35": "",
+          "over45": "",
+          "over55": "",
+          "BTS": "",
+          "cleanSheet": ""
+        },
+        {
           "team": " Monza ",
           "partite": 4,
           "over05": "",
@@ -11242,18 +11254,6 @@
         },
         {
           "team": " Atalanta ",
-          "partite": 3,
-          "over05": " ",
-          "over15": 21,
-          "over25": null,
-          "over35": "",
-          "over45": "",
-          "over55": "",
-          "BTS": "",
-          "cleanSheet": ""
-        },
-        {
-          "team": " Cremonese ",
           "partite": 3,
           "over05": "",
           "over15": 21,
@@ -11316,7 +11316,7 @@
           "team": " Spezia ",
           "partite": 3,
           "over05": "",
-          "over15": 20,
+          "over15": 19,
           "over25": null,
           "over35": "",
           "over45": "",
@@ -11374,9 +11374,9 @@
         },
         {
           "team": " Lazio ",
-          "partite": 10,
+          "partite": 11,
           "over05": "",
-          "over15": 71,
+          "over15": 73,
           "over25": null,
           "over35": "",
           "over45": "",
@@ -11472,7 +11472,7 @@
           "team": " Empoli ",
           "partite": 3,
           "over05": "",
-          "over15": 20,
+          "over15": 19,
           "over25": null,
           "over35": "",
           "over45": "",
@@ -11794,9 +11794,9 @@
         },
         {
           "team": " Empoli ",
-          "partite": 9,
+          "partite": 10,
           "over05": "",
-          "over15": 31,
+          "over15": 33,
           "over25": null,
           "over35": "",
           "over45": "",
@@ -11844,7 +11844,7 @@
           "team": " Cremonese ",
           "partite": 12,
           "over05": "",
-          "over15": 41,
+          "over15": 40,
           "over25": null,
           "over35": "",
           "over45": "",
@@ -11854,9 +11854,9 @@
         },
         {
           "team": " Spezia ",
-          "partite": 13,
+          "partite": 14,
           "over05": "",
-          "over15": 45,
+          "over15": 47,
           "over25": null,
           "over35": "",
           "over45": "",
@@ -12094,9 +12094,9 @@
         },
         {
           "team": " Spezia ",
-          "partite": 5,
+          "partite": 6,
           "over05": "",
-          "over15": 33,
+          "over15": 38,
           "over25": null,
           "over35": "",
           "over45": "",
@@ -12120,7 +12120,7 @@
           "team": " Cremonese ",
           "partite": 8,
           "over05": "",
-          "over15": 57,
+          "over15": 53,
           "over25": null,
           "over35": "",
           "over45": "",
@@ -12228,7 +12228,7 @@
           "team": " Lazio ",
           "partite": 3,
           "over05": "",
-          "over15": 21,
+          "over15": 20,
           "over25": null,
           "over35": "",
           "over45": "",
@@ -12285,18 +12285,6 @@
           "cleanSheet": ""
         },
         {
-          "team": " Empoli ",
-          "partite": 5,
-          "over05": "",
-          "over15": 33,
-          "over25": null,
-          "over35": "",
-          "over45": "",
-          "over55": "",
-          "BTS": "",
-          "cleanSheet": ""
-        },
-        {
           "team": " Fiorentina ",
           "partite": 5,
           "over05": "",
@@ -12325,6 +12313,18 @@
           "partite": 5,
           "over05": "",
           "over15": 33,
+          "over25": null,
+          "over35": "",
+          "over45": "",
+          "over55": "",
+          "BTS": "",
+          "cleanSheet": ""
+        },
+        {
+          "team": " Empoli ",
+          "partite": 6,
+          "over05": "",
+          "over15": 38,
           "over25": null,
           "over35": "",
           "over45": "",
@@ -12477,10 +12477,10 @@
           "cleanSheet": ""
         },
         {
-          "team": " Juventus ",
-          "partite": 10,
+          "team": " Lazio ",
+          "partite": 11,
           "over05": "",
-          "over15": 34,
+          "over15": 37,
           "over25": null,
           "over35": "",
           "over45": "",
@@ -12489,7 +12489,7 @@
           "cleanSheet": ""
         },
         {
-          "team": " Lazio ",
+          "team": " Juventus ",
           "partite": 10,
           "over05": "",
           "over15": 34,
@@ -12876,7 +12876,7 @@
           "team": " Spezia ",
           "partite": 2,
           "over05": "",
-          "over15": 13,
+          "over15": 12,
           "over25": null,
           "over35": "",
           "over45": "",
@@ -12993,10 +12993,10 @@
           "cleanSheet": ""
         },
         {
-          "team": " Bologna ",
-          "partite": 5,
+          "team": " Lazio ",
+          "partite": 6,
           "over05": "",
-          "over15": 36,
+          "over15": 40,
           "over25": null,
           "over35": "",
           "over45": "",
@@ -13005,7 +13005,7 @@
           "cleanSheet": ""
         },
         {
-          "team": " Lazio ",
+          "team": " Bologna ",
           "partite": 5,
           "over05": "",
           "over15": 36,
@@ -13128,7 +13128,7 @@
           "team": " Empoli ",
           "partite": 1,
           "over05": "",
-          "over15": 7,
+          "over15": 6,
           "over25": null,
           "over35": "",
           "over45": "",
@@ -73104,212 +73104,212 @@
         {
           "dataMatch": "Sa 1 Apr",
           "homeTeam": "Inter Milan",
-          "result": "16:00",
+          "result": "0 - 1",
           "awayTeam": "Fiorentina",
-          "over15": "h2h",
-          "halfTime": "",
-          "over25": "",
-          "BTS": ""
+          "over15": "stats",
+          "halfTime": "(0-0)",
+          "over25": "-",
+          "BTS": "-"
         },
         {
           "dataMatch": "Sa 1 Apr",
           "homeTeam": "Juventus",
-          "result": "18:45",
+          "result": "1 - 0",
           "awayTeam": "Hellas Verona",
-          "over15": "h2h",
-          "halfTime": "",
-          "over25": "",
-          "BTS": ""
+          "over15": "stats",
+          "halfTime": "(0-0)",
+          "over25": "-",
+          "BTS": "-"
         },
         {
           "dataMatch": "Su 2 Apr",
           "homeTeam": "Bologna",
-          "result": "10:30",
+          "result": "3 - 0",
           "awayTeam": "Udinese",
-          "over15": "h2h",
-          "halfTime": "",
-          "over25": "",
-          "BTS": ""
+          "over15": "stats",
+          "halfTime": "(2-0)",
+          "over25": "+",
+          "BTS": "-"
         },
         {
           "dataMatch": "Su 2 Apr",
           "homeTeam": "Monza",
-          "result": "13:00",
+          "result": "0 - 2",
           "awayTeam": "Lazio",
-          "over15": "h2h",
-          "halfTime": "",
-          "over25": "",
-          "BTS": ""
+          "over15": "stats",
+          "halfTime": "(0-1)",
+          "over25": "-",
+          "BTS": "-"
         },
         {
           "dataMatch": "Su 2 Apr",
           "homeTeam": "Spezia",
-          "result": "13:00",
+          "result": "1 - 1",
           "awayTeam": "Salernitana",
-          "over15": "h2h",
-          "halfTime": "",
-          "over25": "",
-          "BTS": ""
+          "over15": "stats",
+          "halfTime": "(0-1)",
+          "over25": "-",
+          "BTS": "+"
         },
         {
           "dataMatch": "Su 2 Apr",
           "homeTeam": "AS Roma",
-          "result": "16:00",
+          "result": "3 - 0",
           "awayTeam": "Sampdoria",
-          "over15": "h2h",
-          "halfTime": "",
-          "over25": "",
-          "BTS": ""
+          "over15": "stats",
+          "halfTime": "(0-0)",
+          "over25": "+",
+          "BTS": "-"
         },
         {
           "dataMatch": "Su 2 Apr",
           "homeTeam": "Napoli",
-          "result": "18:45",
+          "result": "0 - 4",
           "awayTeam": "AC Milan",
-          "over15": "h2h",
-          "halfTime": "",
-          "over25": "",
-          "BTS": ""
+          "over15": "stats",
+          "halfTime": "(0-2)",
+          "over25": "+",
+          "BTS": "-"
         },
         {
           "dataMatch": "Mo 3 Apr",
           "homeTeam": "Empoli",
-          "result": "16:30",
+          "result": "1 - 0",
           "awayTeam": "Lecce",
-          "over15": "h2h",
-          "halfTime": "",
-          "over25": "",
-          "BTS": ""
+          "over15": "stats",
+          "halfTime": "(0-0)",
+          "over25": "-",
+          "BTS": "-"
         },
         {
           "dataMatch": "Mo 3 Apr",
           "homeTeam": "Sassuolo",
-          "result": "18:45",
+          "result": "1 - 1",
           "awayTeam": "Torino",
-          "over15": "h2h",
-          "halfTime": "",
-          "over25": "",
-          "BTS": ""
+          "over15": "stats",
+          "halfTime": "(1-0)",
+          "over25": "-",
+          "BTS": "+"
         },
         {
           "dataMatch": "Fr 7 Apr",
           "homeTeam": "Salernitana",
-          "result": "15:00",
+          "result": "1 - 1",
           "awayTeam": "Inter Milan",
-          "over15": "h2h",
-          "halfTime": "",
-          "over25": "",
-          "BTS": ""
+          "over15": "stats",
+          "halfTime": "(0-1)",
+          "over25": "-",
+          "BTS": "+"
         },
         {
           "dataMatch": "Fr 7 Apr",
           "homeTeam": "Lecce",
-          "result": "17:00",
+          "result": "1 - 2",
           "awayTeam": "Napoli",
-          "over15": "h2h",
-          "halfTime": "",
-          "over25": "",
-          "BTS": ""
+          "over15": "stats",
+          "halfTime": "(0-1)",
+          "over25": "+",
+          "BTS": "+"
         },
         {
           "dataMatch": "Fr 7 Apr",
           "homeTeam": "AC Milan",
-          "result": "19:00",
+          "result": "0 - 0",
           "awayTeam": "Empoli",
-          "over15": "h2h",
-          "halfTime": "",
-          "over25": "",
-          "BTS": ""
+          "over15": "stats",
+          "halfTime": "(0-0)",
+          "over25": "-",
+          "BTS": "-"
         },
         {
           "dataMatch": "Sa 8 Apr",
           "homeTeam": "Udinese",
-          "result": "10:30",
+          "result": "2 - 2",
           "awayTeam": "Monza",
-          "over15": "h2h",
-          "halfTime": "",
-          "over25": "",
-          "BTS": ""
+          "over15": "stats",
+          "halfTime": "(1-0)",
+          "over25": "+",
+          "BTS": "+"
         },
         {
           "dataMatch": "Sa 8 Apr",
           "homeTeam": "Fiorentina",
-          "result": "12:30",
+          "result": "1 - 1",
           "awayTeam": "Spezia",
-          "over15": "h2h",
-          "halfTime": "",
-          "over25": "",
-          "BTS": ""
+          "over15": "stats",
+          "halfTime": "(1-1)",
+          "over25": "-",
+          "BTS": "+"
         },
         {
           "dataMatch": "Sa 8 Apr",
           "homeTeam": "Atalanta",
-          "result": "14:30",
+          "result": "0 - 2",
           "awayTeam": "Bologna",
-          "over15": "h2h",
-          "halfTime": "",
-          "over25": "",
-          "BTS": ""
+          "over15": "stats",
+          "halfTime": "(0-0)",
+          "over25": "-",
+          "BTS": "-"
         },
         {
           "dataMatch": "Sa 8 Apr",
           "homeTeam": "Sampdoria",
-          "result": "14:30",
+          "result": "2 - 3",
           "awayTeam": "Cremonese",
-          "over15": "h2h",
-          "halfTime": "",
-          "over25": "",
-          "BTS": ""
+          "over15": "stats",
+          "halfTime": "(1-1)",
+          "over25": "+",
+          "BTS": "+"
         },
         {
           "dataMatch": "Sa 8 Apr",
           "homeTeam": "Hellas Verona",
-          "result": "16:30",
+          "result": "2 - 1",
           "awayTeam": "Sassuolo",
-          "over15": "h2h",
-          "halfTime": "",
-          "over25": "",
-          "BTS": ""
+          "over15": "stats",
+          "halfTime": "(0-1)",
+          "over25": "+",
+          "BTS": "+"
         },
         {
           "dataMatch": "Sa 8 Apr",
           "homeTeam": "Torino",
-          "result": "16:30",
+          "result": "0 - 1",
           "awayTeam": "AS Roma",
-          "over15": "h2h",
-          "halfTime": "",
-          "over25": "",
-          "BTS": ""
+          "over15": "stats",
+          "halfTime": "(0-1)",
+          "over25": "-",
+          "BTS": "-"
         },
         {
           "dataMatch": "Sa 8 Apr",
           "homeTeam": "Lazio",
-          "result": "18:45",
+          "result": "2 - 1",
           "awayTeam": "Juventus",
-          "over15": "h2h",
-          "halfTime": "",
-          "over25": "",
-          "BTS": ""
+          "over15": "stats",
+          "halfTime": "(1-1)",
+          "over25": "+",
+          "BTS": "+"
         },
         {
           "dataMatch": "Fr 14 Apr",
           "homeTeam": "Cremonese",
-          "result": "16:30",
+          "result": "1 - 0",
           "awayTeam": "Empoli",
-          "over15": "h2h",
-          "halfTime": "",
-          "over25": "",
-          "BTS": ""
+          "over15": "stats",
+          "halfTime": "(1-0)",
+          "over25": "-",
+          "BTS": "-"
         },
         {
           "dataMatch": "Fr 14 Apr",
           "homeTeam": "Spezia",
-          "result": "18:45",
+          "result": "0 - 3",
           "awayTeam": "Lazio",
-          "over15": "h2h",
-          "halfTime": "",
-          "over25": "",
-          "BTS": ""
+          "over15": "stats",
+          "halfTime": "(0-1)",
+          "over25": "+",
+          "BTS": "-"
         },
         {
           "dataMatch": "Sa 15 Apr",
@@ -74194,17 +74194,17 @@
         {
           "dataMatch": "  ",
           "homeTeam": "Totals",
-          "result": "378",
-          "awayTeam": "307",
+          "result": "400",
+          "awayTeam": "333",
           "over15": " ",
-          "halfTime": "200",
-          "over25": "126",
-          "BTS": "685"
+          "halfTime": "215",
+          "over25": "135",
+          "BTS": "733"
         },
         {
           "dataMatch": "Averages ",
-          "homeTeam": "1.39",
-          "result": "1.13",
+          "homeTeam": "1.37",
+          "result": "1.14",
           "awayTeam": "",
           "over15": "0.74",
           "halfTime": "0.46",
