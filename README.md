@@ -38,3 +38,9 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ### Run on Chromium on linux for cors
 
 `chromium --disable-web-security --user-data-dir="C://Chromium"`
+
+### Run on windows 11
+
+`"C:\Program Files\Google\Chrome\Application\chrome.exe" --disable-web-security --disable-gpu --user-data-dir=%LOCALAPPDATA%\Google\chromeTemp`
+
+
