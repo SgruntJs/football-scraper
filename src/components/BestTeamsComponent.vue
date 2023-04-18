@@ -65,11 +65,21 @@ export default {
 
       // console.log("uniqueTeams", uniqueTeams);
       this.uniqueTeams = uniqueTeams;
-
-      let over25Teams = this.uniqueTeams.filter((res) => {
-        let over25 = res.over25;
-        return (over25 >= 50) & (res.over15 >= 70);
+      let over25Teams;
+      let over25;
+      if(this.country === 'Turkey') {
+        over25Teams = this.uniqueTeams.filter((res) => {
+        over25 = res.over25;
+        return (over25 >= 50) && (res.over15 >= 80);
       });
+      } else {
+        over25Teams = this.uniqueTeams.filter((res) => {
+        over25 = res.over25;
+        return (over25 >= 50) && (res.over15 >= 70);
+      });
+      }
+
+   
 
       this.teams = over25Teams;
       //console.log("this.teams", this.teams);
