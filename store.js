@@ -20,7 +20,9 @@ export default createStore({
       { id: 15, name: 'Mexico', title: 'Liga MX' },
       { id: 16, name: 'Netherlands', title: 'Eredivisie'},
       { id: 17, name: 'Brazil', title: 'Serie A'},
-      { id: 18, name: 'Australia', title: 'A-League'}
+      { id: 18, name: 'Australia', title: 'A-League'},
+      { id: 19, name: 'Spain', title: 'La Liga'},
+      { id: 20, name: 'Hungary', title: 'NB I'}
     ]
   },
   mutations: {},

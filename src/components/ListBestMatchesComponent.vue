@@ -1,22 +1,30 @@
 <template>
-  <h1 class="pt-4 text-base font-semibold leading-6 text-gray-900">Le partite delle squadre con una percentuale di over maggiore</h1>
+  <h1 class="pt-4 text-base font-semibold leading-6 text-gray-900">
+    Le partite delle squadre con una percentuale di over maggiore
+  </h1>
   <div class="flex pt-10 px-4 sm:px-6 lg:px-8 max-w-7xl flex-col m-auto">
     <div class="flex flex-col">
-      <div class="grid grid-cols-3 bg-gray-200 font-bold">
-        <div class="p-2">Data</div>
-        <div class="p-2">Ora</div>
-        <div class="p-2">Partita</div>
-      </div>
-
-      <div
-        class="grid grid-cols-3 border"
-        v-for="(match, index) in bestMatches"
-        :key="index"
-      >
-        <div class="p-2">{{ match.dataMatch }}</div>
-        <div class="p-2">{{ match.result }}</div>
-        <div class="p-2">{{ match.homeTeam }} - {{ match.awayTeam }}</div>
-      </div>
+      <table class="min-w-full divide-y divide-gray-300">
+        <tbody class="divide-y divide-gray-200 bg-white">
+          <tr v-for="(match, index) in bestMatches" :key="index">
+            <td
+              class="whitespace-nowrap py-2 pl-4 pr-3 text-sm text-gray-500 sm:pl-0"
+            >
+              {{ match.dataMatch }}
+            </td>
+            <td
+              class="whitespace-nowrap py-2 pl-4 pr-3 text-sm text-gray-500 sm:pl-0"
+            >
+              {{ match.result }}
+            </td>
+            <td
+              class="whitespace-nowrap py-2 pl-4 pr-3 text-sm text-gray-500 sm:pl-0"
+            >
+              {{ match.homeTeam }} - {{ match.awayTeam }}
+            </td>
+          </tr>
+        </tbody>
+      </table>
     </div>
   </div>
 </template>
