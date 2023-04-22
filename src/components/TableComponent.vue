@@ -11,7 +11,7 @@
       </div>
       <div class="mt-4 sm:mt-0 sm:ml-16 sm:flex-none">
         <button
-          type="button"
+          type="button"  @click="exportToExcel"
           class="block rounded-md bg-indigo-600 py-2 px-3 text-center text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
         >
           Export
@@ -131,6 +131,7 @@
 
 <script>
 const axios = require("axios");
+const XLSX = require('xlsx');
 export default {
   props: {
     country: {
@@ -176,6 +177,19 @@ export default {
       this.teams = over25Teams;
       //console.log("this.teams", this.teams);
     },
+    exportToExcel() {
+      axios.get(`http://localhost:3000/${this.country}`)
+        .then(response => {
+          const data = response.data;
+          const workbook = XLSX.utils.book_new();
+          const worksheet = XLSX.utils.json_to_sheet(data);
+          XLSX.utils.book_append_sheet(workbook, worksheet, 'Dati');
+          XLSX.writeFile(workbook, 'dati.xlsx');
+        })
+        .catch(error => {
+          console.log(error);
+        });
+    }
   },
   mounted() {
     this.fetchData()
